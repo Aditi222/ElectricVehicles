@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Map-E</string>
+    <string name="app_name">Electric Vehicles</string>
     <string name="title_activity_map">Map</string>
     <string name="zipHint">Enter a Zip Code or Address. </string>
     <string name="min">0%</string>
